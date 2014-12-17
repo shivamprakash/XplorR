@@ -1,0 +1,6 @@
+c:\users\shivam\documents\visual studio 2013\Projects\XplorR\XplorR\bin\XplorR.dll.config
+c:\users\shivam\documents\visual studio 2013\Projects\XplorR\XplorR\bin\XplorR.dll
+c:\users\shivam\documents\visual studio 2013\Projects\XplorR\XplorR\bin\XplorR.pdb
+c:\users\shivam\documents\visual studio 2013\Projects\XplorR\XplorR\obj\Debug\XplorR.dll
+c:\users\shivam\documents\visual studio 2013\Projects\XplorR\XplorR\obj\Debug\XplorR.pdb
+c:\users\shivam\documents\visual studio 2013\Projects\XplorR\XplorR\obj\Debug\XplorR.csprojResolveAssemblyReference.cache
