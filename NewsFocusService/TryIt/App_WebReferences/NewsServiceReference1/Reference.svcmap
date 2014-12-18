@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6e5a98f7-2bcf-45c4-9bd9-78f8ff7e1b83" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:32619/NewsService1.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="NewsService1.xsd" MetadataType="Schema" ID="86e4c4d1-6c6e-448c-a538-597d99e58b34" SourceId="1" SourceUrl="http://localhost:32619/NewsService1.svc?xsd=xsd2" />
+    <MetadataFile FileName="NewsService1.disco" MetadataType="Disco" ID="38995e3d-f6eb-42b0-b48d-2ba017b9900d" SourceId="1" SourceUrl="http://localhost:32619/NewsService1.svc?disco" />
+    <MetadataFile FileName="NewsService11.xsd" MetadataType="Schema" ID="7026e183-815c-44cc-90d6-ce1a91ec3b1a" SourceId="1" SourceUrl="http://localhost:32619/NewsService1.svc?xsd=xsd0" />
+    <MetadataFile FileName="NewsService12.xsd" MetadataType="Schema" ID="bdf3f731-8c83-4762-9436-89272740ad93" SourceId="1" SourceUrl="http://localhost:32619/NewsService1.svc?xsd=xsd1" />
+    <MetadataFile FileName="NewsService1.wsdl" MetadataType="Wsdl" ID="665f7c25-f956-4090-8af8-4045231f5ed7" SourceId="1" SourceUrl="http://localhost:32619/NewsService1.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

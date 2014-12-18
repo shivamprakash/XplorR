@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ForecastService" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ForecastService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfForecast">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Forecast" nillable="true" type="tns:Forecast" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfForecast" nillable="true" type="tns:ArrayOfForecast" />
+  <xs:complexType name="Forecast">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ForecastDate" nillable="true" type="tns:date" />
+      <xs:element minOccurs="0" name="Humidity" type="xs:int" />
+      <xs:element minOccurs="0" name="Maxtemp" type="xs:float" />
+      <xs:element minOccurs="0" name="Mintemp" type="xs:float" />
+      <xs:element minOccurs="0" name="Url" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="WindObj" nillable="true" type="tns:wind" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Forecast" nillable="true" type="tns:Forecast" />
+  <xs:complexType name="date">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Day" type="xs:int" />
+      <xs:element minOccurs="0" name="Month" type="xs:int" />
+      <xs:element minOccurs="0" name="Year" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="date" nillable="true" type="tns:date" />
+  <xs:complexType name="wind">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Deg" type="xs:float" />
+      <xs:element minOccurs="0" name="Direction" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Speed" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="wind" nillable="true" type="tns:wind" />
+</xs:schema>

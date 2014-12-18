@@ -1,0 +1,6 @@
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\WeatherForecast\ForecastService\obj\Debug\ForecastService.csprojResolveAssemblyReference.cache
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\WeatherForecast\ForecastService\bin\ForecastService.dll.config
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\WeatherForecast\ForecastService\bin\ForecastService.dll
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\WeatherForecast\ForecastService\bin\ForecastService.pdb
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\WeatherForecast\ForecastService\obj\Debug\ForecastService.dll
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\WeatherForecast\ForecastService\obj\Debug\ForecastService.pdb

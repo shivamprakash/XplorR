@@ -1,0 +1,6 @@
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\EventService\EventService\bin\EventService.dll.config
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\EventService\EventService\bin\EventService.dll
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\EventService\EventService\bin\EventService.pdb
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\EventService\EventService\obj\Debug\EventService.dll
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\EventService\EventService\obj\Debug\EventService.pdb
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\EventService\EventService\obj\Debug\EventService.csprojResolveAssemblyReference.cache

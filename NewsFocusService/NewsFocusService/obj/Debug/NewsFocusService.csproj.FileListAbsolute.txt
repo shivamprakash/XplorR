@@ -1,0 +1,6 @@
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\NewsFocusService\NewsFocusService\bin\NewsFocusService.dll.config
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\NewsFocusService\NewsFocusService\bin\NewsFocusService.dll
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\NewsFocusService\NewsFocusService\bin\NewsFocusService.pdb
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\NewsFocusService\NewsFocusService\obj\Debug\NewsFocusService.csprojResolveAssemblyReference.cache
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\NewsFocusService\NewsFocusService\obj\Debug\NewsFocusService.dll
+C:\Users\Shivam\Documents\Visual Studio 2013\Projects\NewsFocusService\NewsFocusService\obj\Debug\NewsFocusService.pdb
